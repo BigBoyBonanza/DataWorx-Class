@@ -1,0 +1,1 @@
+GitHub made to hold GoLang code and Docker stuff for the class
